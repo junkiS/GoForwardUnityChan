@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21e969e71f6c24740aa0595090c41fb1
+timeCreated: 1524035549
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CubePrefab: {instanceID: 0}
+  - ground: {instanceID: 0}
+  - audioClip: {fileID: 8300000, guid: e0f9144a3642f7c429a96854896ece9b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
